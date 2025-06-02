@@ -1,4 +1,5 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
+# Name: Pavithra E
 # Register Number :212224220072
 # Date : 10/04/25
 # AIM :
